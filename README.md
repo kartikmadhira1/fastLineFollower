@@ -1,6 +1,6 @@
-#ENIGMA Line Follower
+# ENIGMA Line Follower
 
-##Version V2   
+## Version V2   
 Added LCD  
 Added push button interface  
 Added better PID interfaces    
@@ -12,7 +12,7 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 " target="_blank"><img src="http://img.youtube.com/vi/PqTxu9Z2MqQ/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>  
 
-##Version V1  
+## Version V1  
 No LCD support  
 PID Line Follower  
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=bZeTKNKcap4
